@@ -50,7 +50,7 @@ https://tp-python-uai-lj2026.streamlit.app/
 
 https://github.com/jaimelucas01/TP-Python-UAI
 
-## 👨‍🎓 Alumno
+## 👨‍🎓 Alumno:
 
 Lucas Jaime
 
